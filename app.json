@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "GuessNumbers",
+    
+      
+     
+   
+    "slug": "guess-numbers",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.fincorner.guess_numbers",
+      "versionCode":2,
+      "config": {
+       
+        "googleMobileAdsAppId": "ca-app-pub-3754427684505504~7879366858" 
+      } 
+
+    }
+   
+  }
+}
